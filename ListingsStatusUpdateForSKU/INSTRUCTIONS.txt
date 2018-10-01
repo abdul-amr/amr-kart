@@ -1,0 +1,6 @@
+1. Download the Inventory File
+2. Update the inventory file name in config file
+3. Mention the Mobile Names that you want to update
+4. Run Batch 1 to get all the SKUs of the mentioned mobiles
+5. Now update the models and their product attributes to be updated in config file
+6. Run Batch 2 to update all the mentioned models with the updated attributes.

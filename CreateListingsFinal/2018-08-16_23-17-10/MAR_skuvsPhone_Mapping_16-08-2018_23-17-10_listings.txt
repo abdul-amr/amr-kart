@@ -1,0 +1,325 @@
+mot-tp-sg-a325364::SAMSUNG Galaxy S8
+mot-tp-sg-a325365::SAMSUNG Galaxy S8
+mot-sg-fcg-a325366::SAMSUNG Galaxy S8
+mot-def-sg-a325367::SAMSUNG Galaxy S8
+mot-sg-fcb-a325368::SAMSUNG Galaxy S8
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8
+mot-tp-sg-a325370::SAMSUNG Galaxy S8
+mot-tp-sg-a325371::SAMSUNG Galaxy S8
+mot-sg-fcg-a325372::SAMSUNG Galaxy S8
+mot-tp-sg-a325373::SAMSUNG Galaxy S8
+mot-tp-sg-a325374::SAMSUNG Galaxy S8
+mot-tp-sg-a325375::SAMSUNG Galaxy S8
+mot-sg-fcg-a325376::SAMSUNG Galaxy S8
+mot-tp-sg-a325377::SAMSUNG Galaxy S8
+mot-sg-fcb-a325378::SAMSUNG Galaxy S8
+mot-def-sg-a325379::SAMSUNG Galaxy S8
+mot-tp-sg-a325380::SAMSUNG Galaxy S8
+mot-tp-sg-a325381::SAMSUNG Galaxy S8
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8
+mot-tp-sg-a325383::SAMSUNG Galaxy S8
+mot-tp-sg-a325384::SAMSUNG Galaxy S8
+mot-tp-sg-a325385::SAMSUNG Galaxy S8
+mot-tp-sg-a325386::SAMSUNG Galaxy S8
+mot-sg-fcb-a325387::SAMSUNG Galaxy S8
+mot-chr-sg-a325388::SAMSUNG Galaxy S8
+mot-tp-sg-a325364::SAMSUNG Galaxy S8
+mot-tp-sg-a325365::SAMSUNG Galaxy S8
+mot-sg-fcg-a325366::SAMSUNG Galaxy S8
+mot-def-sg-a325367::SAMSUNG Galaxy S8
+mot-sg-fcb-a325368::SAMSUNG Galaxy S8
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8
+mot-tp-sg-a325370::SAMSUNG Galaxy S8
+mot-tp-sg-a325371::SAMSUNG Galaxy S8
+mot-sg-fcg-a325372::SAMSUNG Galaxy S8
+mot-tp-sg-a325373::SAMSUNG Galaxy S8
+mot-tp-sg-a325374::SAMSUNG Galaxy S8
+mot-tp-sg-a325375::SAMSUNG Galaxy S8
+mot-sg-fcg-a325376::SAMSUNG Galaxy S8
+mot-tp-sg-a325377::SAMSUNG Galaxy S8
+mot-sg-fcb-a325378::SAMSUNG Galaxy S8
+mot-def-sg-a325379::SAMSUNG Galaxy S8
+mot-tp-sg-a325380::SAMSUNG Galaxy S8
+mot-tp-sg-a325381::SAMSUNG Galaxy S8
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8
+mot-tp-sg-a325383::SAMSUNG Galaxy S8
+mot-tp-sg-a325384::SAMSUNG Galaxy S8
+mot-tp-sg-a325385::SAMSUNG Galaxy S8
+mot-tp-sg-a325386::SAMSUNG Galaxy S8
+mot-sg-fcb-a325387::SAMSUNG Galaxy S8
+mot-chr-sg-a325388::SAMSUNG Galaxy S8
+mot-tp-sg-a325364::SAMSUNG Galaxy S8
+mot-tp-sg-a325365::SAMSUNG Galaxy S8
+mot-sg-fcg-a325366::SAMSUNG Galaxy S8
+mot-def-sg-a325367::SAMSUNG Galaxy S8
+mot-sg-fcb-a325368::SAMSUNG Galaxy S8
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8
+mot-tp-sg-a325370::SAMSUNG Galaxy S8
+mot-tp-sg-a325371::SAMSUNG Galaxy S8
+mot-sg-fcg-a325372::SAMSUNG Galaxy S8
+mot-tp-sg-a325373::SAMSUNG Galaxy S8
+mot-tp-sg-a325374::SAMSUNG Galaxy S8
+mot-tp-sg-a325375::SAMSUNG Galaxy S8
+mot-sg-fcg-a325376::SAMSUNG Galaxy S8
+mot-tp-sg-a325377::SAMSUNG Galaxy S8
+mot-sg-fcb-a325378::SAMSUNG Galaxy S8
+mot-def-sg-a325379::SAMSUNG Galaxy S8
+mot-tp-sg-a325380::SAMSUNG Galaxy S8
+mot-tp-sg-a325381::SAMSUNG Galaxy S8
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8
+mot-tp-sg-a325383::SAMSUNG Galaxy S8
+mot-tp-sg-a325384::SAMSUNG Galaxy S8
+mot-tp-sg-a325385::SAMSUNG Galaxy S8
+mot-tp-sg-a325386::SAMSUNG Galaxy S8
+mot-sg-fcb-a325387::SAMSUNG Galaxy S8
+mot-chr-sg-a325388::SAMSUNG Galaxy S8
+mot-tp-sg-a325364::SAMSUNG Galaxy S8
+mot-tp-sg-a325365::SAMSUNG Galaxy S8
+mot-sg-fcg-a325366::SAMSUNG Galaxy S8
+mot-def-sg-a325367::SAMSUNG Galaxy S8
+mot-sg-fcb-a325368::SAMSUNG Galaxy S8
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8
+mot-tp-sg-a325370::SAMSUNG Galaxy S8
+mot-tp-sg-a325371::SAMSUNG Galaxy S8
+mot-sg-fcg-a325372::SAMSUNG Galaxy S8
+mot-tp-sg-a325373::SAMSUNG Galaxy S8
+mot-tp-sg-a325374::SAMSUNG Galaxy S8
+mot-tp-sg-a325375::SAMSUNG Galaxy S8
+mot-sg-fcg-a325376::SAMSUNG Galaxy S8
+mot-tp-sg-a325377::SAMSUNG Galaxy S8
+mot-sg-fcb-a325378::SAMSUNG Galaxy S8
+mot-def-sg-a325379::SAMSUNG Galaxy S8
+mot-tp-sg-a325380::SAMSUNG Galaxy S8
+mot-tp-sg-a325381::SAMSUNG Galaxy S8
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8
+mot-tp-sg-a325383::SAMSUNG Galaxy S8
+mot-tp-sg-a325384::SAMSUNG Galaxy S8
+mot-tp-sg-a325385::SAMSUNG Galaxy S8
+mot-tp-sg-a325386::SAMSUNG Galaxy S8
+mot-sg-fcb-a325387::SAMSUNG Galaxy S8
+mot-chr-sg-a325388::SAMSUNG Galaxy S8
+mot-tp-sg-a325364::SAMSUNG Galaxy S8
+mot-tp-sg-a325365::SAMSUNG Galaxy S8
+mot-sg-fcg-a325366::SAMSUNG Galaxy S8
+mot-def-sg-a325367::SAMSUNG Galaxy S8
+mot-sg-fcb-a325368::SAMSUNG Galaxy S8
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8
+mot-tp-sg-a325370::SAMSUNG Galaxy S8
+mot-tp-sg-a325371::SAMSUNG Galaxy S8
+mot-sg-fcg-a325372::SAMSUNG Galaxy S8
+mot-tp-sg-a325373::SAMSUNG Galaxy S8
+mot-tp-sg-a325374::SAMSUNG Galaxy S8
+mot-tp-sg-a325375::SAMSUNG Galaxy S8
+mot-sg-fcg-a325376::SAMSUNG Galaxy S8
+mot-tp-sg-a325377::SAMSUNG Galaxy S8
+mot-sg-fcb-a325378::SAMSUNG Galaxy S8
+mot-def-sg-a325379::SAMSUNG Galaxy S8
+mot-tp-sg-a325380::SAMSUNG Galaxy S8
+mot-tp-sg-a325381::SAMSUNG Galaxy S8
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8
+mot-tp-sg-a325383::SAMSUNG Galaxy S8
+mot-tp-sg-a325384::SAMSUNG Galaxy S8
+mot-tp-sg-a325385::SAMSUNG Galaxy S8
+mot-tp-sg-a325386::SAMSUNG Galaxy S8
+mot-sg-fcb-a325387::SAMSUNG Galaxy S8
+mot-chr-sg-a325388::SAMSUNG Galaxy S8
+mot-tp-sg-a325364::SAMSUNG Galaxy S8
+mot-tp-sg-a325365::SAMSUNG Galaxy S8
+mot-sg-fcg-a325366::SAMSUNG Galaxy S8
+mot-def-sg-a325367::SAMSUNG Galaxy S8
+mot-sg-fcb-a325368::SAMSUNG Galaxy S8
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8
+mot-tp-sg-a325370::SAMSUNG Galaxy S8
+mot-tp-sg-a325371::SAMSUNG Galaxy S8
+mot-sg-fcg-a325372::SAMSUNG Galaxy S8
+mot-tp-sg-a325373::SAMSUNG Galaxy S8
+mot-tp-sg-a325374::SAMSUNG Galaxy S8
+mot-tp-sg-a325375::SAMSUNG Galaxy S8
+mot-sg-fcg-a325376::SAMSUNG Galaxy S8
+mot-tp-sg-a325377::SAMSUNG Galaxy S8
+mot-sg-fcb-a325378::SAMSUNG Galaxy S8
+mot-def-sg-a325379::SAMSUNG Galaxy S8
+mot-tp-sg-a325380::SAMSUNG Galaxy S8
+mot-tp-sg-a325381::SAMSUNG Galaxy S8
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8
+mot-tp-sg-a325383::SAMSUNG Galaxy S8
+mot-tp-sg-a325384::SAMSUNG Galaxy S8
+mot-tp-sg-a325385::SAMSUNG Galaxy S8
+mot-tp-sg-a325386::SAMSUNG Galaxy S8
+mot-sg-fcb-a325387::SAMSUNG Galaxy S8
+mot-chr-sg-a325388::SAMSUNG Galaxy S8
+mot-tp-sg-a325364::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325365::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325366::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325367::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325368::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325370::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325371::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325372::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325373::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325374::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325375::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325376::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325377::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325378::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325379::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325380::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325381::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325383::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325384::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325385::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325386::SAMSUNG Galaxy S8 Plus
+mot-sg-fcg-a325387::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325388::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325364::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325365::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325366::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325367::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325368::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325370::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325371::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325372::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325373::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325374::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325375::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325376::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325377::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325378::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325379::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325380::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325381::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325383::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325384::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325385::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325386::SAMSUNG Galaxy S8 Plus
+mot-sg-fcg-a325387::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325388::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325364::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325365::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325366::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325367::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325368::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325369::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325370::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325371::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325372::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325373::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325374::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325375::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325376::SAMSUNG Galaxy S8 Plus
+mot-def-sg-a325377::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325378::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325379::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325380::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325381::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325382::SAMSUNG Galaxy S8 Plus
+mot-chr-sg-a325383::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325384::SAMSUNG Galaxy S8 Plus
+mot-sg-fcb-a325385::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325386::SAMSUNG Galaxy S8 Plus
+mot-sg-fcg-a325387::SAMSUNG Galaxy S8 Plus
+mot-tp-sg-a325388::SAMSUNG Galaxy S8 Plus
+mot-sg-rbblck-a325389::VIVO Z1
+mot-sg-lisbrwn-a325390::VIVO Z1
+mot-sg-lisblck-a325391::VIVO Z1
+mot-sg-fcg-a325392::VIVO Z1
+mot-chr-sg-a325393::VIVO Z1
+mot-chr-sg-a325394::VIVO Z1
+mot-def-sg-a325395::VIVO Z1
+mot-sg-fcb-a325396::VIVO Z1
+mot-def-sg-a325397::VIVO Z1
+mot-sg-rbbrwn-a325398::VIVO Z1
+mot-sg-rbbrwn-a325399::VIVO Z1
+mot-sg-fcg-a325400::VIVO Z1
+mot-sg-rbblck-a325401::VIVO Z1
+mot-sg-rbred-a325402::VIVO Z1
+mot-chr-sg-a325403::VIVO Z1
+mot-def-sg-a325404::VIVO Z1
+mot-sg-rbblck-a325405::VIVO Z1
+mot-sg-lisblck-a325406::VIVO Z1
+mot-tp-sg-a325407::VIVO Z1
+mot-chr-sg-a325408::VIVO Z1
+mot-sg-fcb-a325409::VIVO Z1
+mot-sg-liscrem-a325410::VIVO Z1
+mot-sg-rbblck-a325411::VIVO Z1
+mot-sg-rbblue-a325412::VIVO Z1
+mot-sg-fcg-a325413::VIVO Z1
+mot-sg-rbblck-a325389::VIVO Z1
+mot-sg-lisbrwn-a325390::VIVO Z1
+mot-sg-lisblck-a325391::VIVO Z1
+mot-sg-fcg-a325392::VIVO Z1
+mot-chr-sg-a325393::VIVO Z1
+mot-chr-sg-a325394::VIVO Z1
+mot-def-sg-a325395::VIVO Z1
+mot-sg-fcb-a325396::VIVO Z1
+mot-def-sg-a325397::VIVO Z1
+mot-sg-rbbrwn-a325398::VIVO Z1
+mot-sg-rbbrwn-a325399::VIVO Z1
+mot-sg-fcg-a325400::VIVO Z1
+mot-sg-rbblck-a325401::VIVO Z1
+mot-sg-rbred-a325402::VIVO Z1
+mot-chr-sg-a325403::VIVO Z1
+mot-def-sg-a325404::VIVO Z1
+mot-sg-rbblck-a325405::VIVO Z1
+mot-sg-lisblck-a325406::VIVO Z1
+mot-tp-sg-a325407::VIVO Z1
+mot-chr-sg-a325408::VIVO Z1
+mot-sg-fcb-a325409::VIVO Z1
+mot-sg-liscrem-a325410::VIVO Z1
+mot-sg-rbblck-a325411::VIVO Z1
+mot-sg-rbblue-a325412::VIVO Z1
+mot-sg-fcg-a325413::VIVO Z1
+mot-sg-fcg-a325414::XIAOMI MI 8
+mot-tp-sg-a325415::XIAOMI MI 8
+mot-tp-sg-a325416::XIAOMI MI 8
+mot-sg-fcg-a325417::XIAOMI MI 8
+mot-def-sg-a325418::XIAOMI MI 8
+mot-tp-sg-a325419::XIAOMI MI 8
+mot-chr-sg-a325420::XIAOMI MI 8
+mot-def-sg-a325421::XIAOMI MI 8
+mot-def-sg-a325422::XIAOMI MI 8
+mot-chr-sg-a325423::XIAOMI MI 8
+mot-tp-sg-a325424::XIAOMI MI 8
+mot-chr-sg-a325425::XIAOMI MI 8
+mot-tp-sg-a325426::XIAOMI MI 8
+mot-chr-sg-a325427::XIAOMI MI 8
+mot-chr-sg-a325428::XIAOMI MI 8
+mot-tp-sg-a325429::XIAOMI MI 8
+mot-chr-sg-a325430::XIAOMI MI 8
+mot-sg-fcb-a325431::XIAOMI MI 8
+mot-def-sg-a325432::XIAOMI MI 8
+mot-def-sg-a325433::XIAOMI MI 8
+mot-chr-sg-a325434::XIAOMI MI 8
+mot-sg-fcg-a325435::XIAOMI MI 8
+mot-tp-sg-a325436::XIAOMI MI 8
+mot-sg-fcg-a325437::XIAOMI MI 8
+mot-tp-sg-a325438::XIAOMI MI 8
+mot-sg-fcg-a325414::XIAOMI MI 8
+mot-tp-sg-a325415::XIAOMI MI 8
+mot-tp-sg-a325416::XIAOMI MI 8
+mot-sg-fcg-a325417::XIAOMI MI 8
+mot-def-sg-a325418::XIAOMI MI 8
+mot-tp-sg-a325419::XIAOMI MI 8
+mot-chr-sg-a325420::XIAOMI MI 8
+mot-def-sg-a325421::XIAOMI MI 8
+mot-def-sg-a325422::XIAOMI MI 8
+mot-chr-sg-a325423::XIAOMI MI 8
+mot-tp-sg-a325424::XIAOMI MI 8
+mot-chr-sg-a325425::XIAOMI MI 8
+mot-tp-sg-a325426::XIAOMI MI 8
+mot-chr-sg-a325427::XIAOMI MI 8
+mot-chr-sg-a325428::XIAOMI MI 8
+mot-tp-sg-a325429::XIAOMI MI 8
+mot-chr-sg-a325430::XIAOMI MI 8
+mot-sg-fcb-a325431::XIAOMI MI 8
+mot-def-sg-a325432::XIAOMI MI 8
+mot-def-sg-a325433::XIAOMI MI 8
+mot-chr-sg-a325434::XIAOMI MI 8
+mot-sg-fcg-a325435::XIAOMI MI 8
+mot-tp-sg-a325436::XIAOMI MI 8
+mot-sg-fcg-a325437::XIAOMI MI 8
+mot-tp-sg-a325438::XIAOMI MI 8

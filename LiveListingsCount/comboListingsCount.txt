@@ -1,0 +1,81 @@
+google pixel 2:chr-257	def-131	fcb-207	fcg-176	sg-230	tp-289	
+google pixel 2 xl:chr-252	def-131	fcb-205	fcg-176	sg-222	tp-280	
+honor 6x:chr-49	def-27	tp-22	
+honor 7x:chr-143	def-91	fcb-117	fcg-102	sg-64	tp-119	
+infinix hot 4 pro:chr-8	def-6	fcb-29	fcg-25	sg-6	tp-32	
+infinix note 4:chr-22	def-24	fcb-33	fcg-35	sg-19	tp-31	
+lenovo k6 power:chr-489	crm-343	def-618	fcb-440	fcg-230	tp-504	
+lenovo k8 note:chr-118	crm-118	def-103	fcb-239	fcg-193	sg-7	tp-92	
+lenovo p2:chr-85	crm-108	def-45	fcb-35	fcg-35	tp-180	
+lg q6:chr-105	def-89	fcb-51	fcg-55	sg-10	tp-58	
+mi max:fcb-9	fcg-3	
+mi redmi 2:chr-7	crm-14	def-17	fcb-16	fcg-13	tp-16	
+mi redmi 2 prime:chr-6	crm-8	def-8	fcb-10	fcg-12	tp-15	
+mi redmi 3s:chr-2	crm-2	def-2	fcb-5	fcg-3	
+mi redmi 3s prime:chr-97	crm-132	def-191	tp-250	
+mi redmi 5a:chr-289	def-167	fcb-233	fcg-183	sg-421	tp-271	
+mi redmi note 4:chr-175	crm-161	def-81	fcb-61	fcg-99	tp-91	
+mi redmi note 5:chr-1026	crm-17	def-1328	fcb-1178	fcg-865	sg-1246	tp-1198	
+mi redmi note 5 pro:chr-605	def-48	fcb-532	fcg-365	sg-479	tp-529	
+motorola moto c:chr-8	def-14	fcb-11	fcg-3	sg-4	tp-16	
+motorola moto c plus:chr-10	crm-1	def-14	fcb-8	fcg-3	sg-6	tp-16	
+motorola moto g5 plus:chr-3	crm-1	def-1	tp-1	
+motorola z2 play:chr-3	def-8	fcb-3	fcg-4	sg-6	tp-6	
+nokia 1:chr-197	crm-47	def-173	fcb-224	fcg-235	sg-133	tp-189	
+nokia 6 2018:chr-182	fcb-236	fcg-251	sg-251	tp-204	
+nokia 7 plus:chr-235	crm-67	def-53	fcg-248	sg-227	tp-270	
+oppo a71:chr-602	crm-179	def-212	fcb-307	fcg-249	sg-435	tp-430	
+oppo a83:chr-160	def-167	fcb-191	fcg-227	sg-135	tp-160	
+oppo f3:chr-163	crm-53	def-83	fcb-7	fcg-7	tp-93	
+oppo f5:chr-615	crm-181	def-214	fcb-321	fcg-239	sg-450	tp-442	
+oppo f7:chr-295	def-119	fcb-344	fcg-291	sg-137	
+oppo r11 plus:chr-24	def-145	fcb-175	fcg-146	sg-219	tp-219	
+oppo r11s:chr-25	def-141	fcb-178	fcg-150	sg-214	tp-212	
+oppo r11s plus:chr-27	def-145	fcb-174	fcg-151	sg-223	tp-216	
+redmi note 4:chr-661	crm-415	def-239	fcb-480	fcg-228	tp-1101	
+redmi note 5 pro:chr-143	def-13	fcb-128	fcg-93	sg-125	tp-122	
+samsung c9 pro:chr-178	crm-250	def-243	fcb-75	fcg-75	tp-441	
+samsung galaxy a7:chr-1	crm-2	def-2	tp-1	
+samsung galaxy a7 (2017):chr-55	crm-63	def-63	fcb-17	fcg-17	tp-57	
+samsung galaxy j2 2017:chr-615	crm-465	def-337	fcb-705	fcg-769	tp-443	
+samsung galaxy j2 prime:chr-33	crm-38	def-29	tp-46	
+samsung galaxy j3 pro:chr-6	def-13	fcb-15	fcg-10	sg-11	tp-11	
+samsung galaxy j5 prime:chr-385	crm-564	def-580	fcb-92	fcg-92	tp-859	
+samsung galaxy j7 prime:chr-399	crm-445	def-290	fcb-94	fcg-94	tp-342	
+samsung galaxy s7:chr-102	crm-132	def-131	fcb-19	fcg-19	tp-159	
+samsung galaxy s9:chr-203	crm-8	def-26	fcb-105	fcg-164	sg-70	tp-130	
+samsung galaxy s9 plus:chr-167	crm-2	def-32	fcb-120	fcg-109	sg-79	tp-153	
+vivo v5s:chr-20	crm-12	def-14	fcb-1	fcg-1	tp-12	
+vivo v7 plus:chr-106	def-58	tp-112	
+vivo v9:chr-290	def-148	fcb-222	fcg-218	sg-199	tp-207	
+vivo y71:chr-151	crm-169	def-150	fcb-176	fcg-188	sg-174	tp-170	
+xiaomi mi 2:chr-3	crm-8	def-5	tp-5	
+xiaomi mi 2s:chr-5	crm-8	def-8	tp-7	
+xiaomi mi 3:crm-1	def-3	fcb-12	fcg-12	
+xiaomi mi 4:chr-21	crm-9	def-12	fcb-2	fcg-2	tp-13	
+xiaomi mi 4 lte:chr-23	crm-7	def-8	fcb-3	fcg-1	tp-12	
+xiaomi mi 4c:chr-1	crm-3	fcb-1	
+xiaomi mi 4i:chr-1	crm-1	def-1	fcb-3	fcg-3	
+xiaomi mi 4s:chr-4	crm-3	def-6	fcb-9	fcg-5	tp-7	
+xiaomi mi 5:chr-10	crm-4	def-14	fcb-3	fcg-1	tp-2	
+xiaomi mi 5s:fcb-3	fcg-1	
+xiaomi mi 5s plus:chr-4	crm-2	def-13	fcb-11	fcg-11	tp-13	
+xiaomi mi max:fcb-5	fcg-3	
+xiaomi mi note:chr-3	crm-5	def-3	fcb-17	fcg-7	tp-1	
+xiaomi mi note 2:fcb-4	fcg-2	
+xiaomi mi note pro:chr-6	crm-8	def-7	fcb-11	fcg-3	tp-3	
+xiaomi redmi 1s:chr-2	crm-1	fcb-8	fcg-9	tp-1	
+xiaomi redmi 2:chr-4	crm-3	def-7	fcb-8	fcg-8	tp-10	
+xiaomi redmi 2 prime:chr-4	crm-5	def-11	fcb-9	fcg-13	tp-8	
+xiaomi redmi 2 pro:chr-3	crm-4	def-10	tp-7	
+xiaomi redmi 3:crm-1	def-1	fcb-3	fcg-1	
+xiaomi redmi 3s:def-1	fcb-3	fcg-3	
+xiaomi redmi 3x:chr-7	crm-8	def-11	fcb-10	fcg-28	tp-8	
+xiaomi redmi 4a:chr-17	crm-11	def-15	tp-9	
+xiaomi redmi 5a:chr-291	def-171	fcb-232	fcg-179	sg-431	tp-272	
+xiaomi redmi note:chr-7	crm-6	def-10	fcb-8	fcg-6	tp-7	
+xiaomi redmi note 4:chr-200	crm-19	
+xiaomi redmi note 5:chr-505	crm-6	def-612	fcb-598	fcg-417	sg-744	tp-620	
+xiaomi redmi note 5 pro:chr-136	def-18	fcb-138	fcg-93	sg-137	tp-134	
+xiaomi redmi y1:chr-404	crm-68	def-160	fcb-261	fcg-205	sg-481	tp-317	
+xiaomi redmi y1 lite:chr-800	def-640	fcb-356	fcg-317	sg-757	tp-568	

@@ -1,0 +1,49 @@
+Samsung C9 Pro:chr-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY NOTE 8:chr-5,a,d	def-5,a,d	fcb-5,a,d	fcg-5,a,d	sg-2,a,i	tp-5,a,d	
+Google Pixel:chr-1,a,i	
+Lenovo A6600 Plus:def-1,a,i	fcb-1,a,i	tp-1,a,i	
+Lenovo Vibe K5 Note:chr-1,a,i	def-1,a,i	fcg-1,a,i	tp-1,a,i	
+VIVO Y69:chr-5,a,d	crm-1,i,i	def-5,a,d	fcb-5,a,d	fcg-5,a,d	sg-2,a,i	tp-2,a,i	
+VIVO V5 Plus:chr-1,a,i	crm-1,a,i	fcb-1,a,i	
+Motorola Moto E3 Power:fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy On Nxt:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	tp-1,a,i	
+VIVO V7 PLUS:chr-5,a,d	crm-1,i,i	def-5,a,d	fcb-5,a,d	fcg-5,a,d	sg-2,a,i	tp-2,a,i	
+Samsung Galaxy A5:crm-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+OPPO R11:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+SAMSUNG Galaxy S8 Plus:tp-1,a,i	
+Samsung Galaxy J2 Ace:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY J7 (2017):sg-1,a,i	
+OPPO F3:chr-1,a,i	def-1,a,i	fcb-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY J5 (2017):sg-1,a,i	
+OPPO A37:chr-1,a,i	crm-1,a,i	fcb-1,a,i	
+VIVO V5 Lite:chr-1,a,i	fcg-1,a,i	tp-1,a,i	
+Oppo A57:fcb-1,a,i	
+MOTOROLA MOTO G5S PLUS:chr-2,a,i	crm-1,i,i	def-3,a,d	fcb-3,a,d	fcg-3,a,d	sg-2,a,i	tp-2,a,i	
+Samsung Galaxy J1:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+MOTOROLA MOTO G5S:chr-2,a,i	crm-1,i,i	def-2,a,i	fcb-2,a,i	fcg-2,a,i	sg-2,a,i	tp-2,a,i	
+Oppo F1s:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	
+iPhone 7:chr-1,a,i	crm-1,a,i	fcb-1,a,i	tp-1,a,i	
+Motorola Moto M:chr-1,a,i	def-1,a,i	fcg-1,a,i	
+VIVO V5S:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Smsung Galaxy S7 Edge:crm-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY J5:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY J7:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Oppo F3 Plus:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+VIVO V5:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	tp-1,a,i	
+Lenovo K5 Note:def-1,a,i	
+Mi Max 2:fcb-1,a,i	fcg-1,a,i	
+Samsing Galaxy C7 Pro:chr-1,a,i	crm-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Redmi Note 4:chr-1,a,i	crm-1,a,i	fcb-1,a,i	fcg-1,a,i	
+Motorola Moto G5 Plus:fcb-1,a,i	tp-1,a,i	
+VIVO Y55L:crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG Galaxy S8:tp-1,a,i	
+OnePlus 3T:fcb-1,a,i	tp-1,a,i	
+Samsung A9 Pro:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Z2:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY J7 Pro:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+OnePlus 3:chr-1,a,i	def-1,a,i	tp-1,a,i	
+OPPO F1 Plus:chr-1,a,i	crm-1,a,i	def-1,a,i	fcg-1,a,i	tp-1,a,i	
+Google Pixel XL:fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Lenovo K6 Power:crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	
+Lenovo P2:chr-1,a,i	crm-1,a,i	fcb-1,a,i	
+Lenovo K8 Plus:chr-2,a,i	def-5,a,d	fcb-5,a,d	fcg-5,a,d	sg-2,a,i	tp-2,a,i	
