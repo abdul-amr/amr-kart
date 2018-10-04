@@ -6,6 +6,8 @@ builds
 /tmp
 /out-tsc
 
+bin
+
 configs/_generated.json
 package-lock.json
 
