@@ -1,0 +1,5 @@
+1. Download the Listings File from My Listings tab(Go To My Listings tab -> Select All Pages -> Click Request Download -> once the file is ready click "Last requested File" to download listings file)
+2. Download QC Approved(Non-LIVE) Listings(Click Add New Listings -> Select "Bulk Listings" tab -> Select QC Processed Products -> Click Request Download -> Once the File is ready click "Last Requested File")
+3. Change the file location in config file
+4. Run batch 1
+5. Run Batch 2

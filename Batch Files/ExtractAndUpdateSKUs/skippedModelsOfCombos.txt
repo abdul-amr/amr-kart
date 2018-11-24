@@ -1,0 +1,85 @@
+asus zenfone max pro m1:chr	def	ear	fcb	rbblk	rbbrw	rbred	sg	tg	tp	
+cover:chr	tg	
+honor 7a:chr	def	fcb	lisblu	lisbrn	rbblk	rbblu	rbbrw	sg	tg	tp	
+honor 9n:chr	def	fcb	fcg	lisblk	lisbrn	rbblk	rbblu	rbbrw	rbred	tg	tp	
+infinix hot 4 pro:fcb	fcg	tp	
+infinix note 4:chr	
+infinix note 5:chr	ear	tp	
+iphone xs:chr	ear	tg	tp	
+iphone xs max:chr	ear	tg	tp	
+lenovo k6 power:chr	def	tp	
+lenovo k8 note:chr	def	fcg	sg	tp	
+lenovo p2:chr	def	
+lg q6:chr	def	sg	tp	
+mi redmi 2:chr	def	
+mi redmi 2 prime:def	
+mi redmi 3s:chr	def	
+mi redmi 3s prime:chr	def	tp	
+mi redmi note 4:chr	def	tp	
+mi redmi note 5:chr	fcb	
+moto g5s:chr	def	fcb	fcg	tp	
+moto g5s plus:chr	def	fcg	tp	
+moto one power:chr	lisblk	lisblu	rbblk	rbblu	rbbrw	tg	tp	
+motorola moto c plus:tp	
+motorola moto g5 plus:chr	
+motorola moto g6:chr	def	fcb	fcg	tp	
+motorola moto g6 play:chr	def	ear	fcb	fcg	tp	
+motorola moto g6 plus:chr	def	ear	fcb	tp	
+motorola z2 play:sg	tp	
+nokia 1:chr	def	fcg	sg	tp	
+nokia 5.1 plus:chr	ear	rbblk	rbblu	rbbrw	sg	tg	tp	
+nokia 6.1 plus:chr	fcb	sg	tg	tp	
+nokia 7 plus:chr	def	fcg	sg	tp	
+oppo a71:chr	def	fcb	fcg	sg	tp	
+oppo f3:chr	def	
+oppo f5:chr	def	fcb	fcg	sg	tp	
+oppo f9  pro:ear	lisblk	lisblu	lisbrn	liscrm	rbblk	rbblu	rbbrw	rbred	sg	tg	tp	
+oppo f9 pro:lisblk	lisblu	lisbrn	rbblk	rbblu	rbbrw	sg	tg	tp	
+oppo r11 plus:chr	def	sg	
+oppo r11s:chr	def	sg	
+oppo r11s plus:chr	def	sg	
+oppo realme 2:chr	lisblk	lisbrn	liscrm	rbblk	rbblu	rbbrw	sg	tg	tp	
+poco f1:chr	def	ear	fcb	fcg	lisblk	lisblu	lisbrn	liscrm	rbblk	rbblu	rbbrw	sg	tg	tp	
+realme 2 pro:ear	sg	tg	
+redmi 6:chr	def	ear	rbblk	rbbrw	sg	tg	
+redmi note 4:chr	def	tp	
+redmi note 6 pro:ear	tg	
+samsung c9 pro:chr	def	tp	
+samsung galaxy a7:chr	crm	def	
+samsung galaxy a7 (2017):chr	def	tp	
+samsung galaxy j2 2017:chr	def	fcb	fcg	tp	
+samsung galaxy j2 prime:chr	def	tp	
+samsung galaxy j5 prime:chr	def	tp	
+samsung galaxy j6:chr	fcb	fcg	rbbrw	sg	tg	
+samsung galaxy j7 prime:chr	def	tp	
+samsung galaxy on6:chr	fcb	fcg	liscrm	rbblk	rbbrw	tg	tp	
+samsung galaxy s7:chr	def	fcg	tp	
+samsung galaxy s9:def	fcb	fcg	sg	tp	
+samsung galaxy s9 plus:chr	def	fcb	fcg	sg	tp	
+screen protector:fcb	fcg	rbblk	rbblu	rbbrw	rbred	sg	tg	
+vivo v11 pro:ear	lisblk	lisblu	lisbrn	liscrm	rbblk	rbblu	rbbrw	tg	tp	
+vivo v5s:chr	def	tp	
+vivo y69:chr	def	fcb	tg	tp	
+vivo y71:chr	def	fcb	fcg	sg	tp	
+vivo y83:chr	ear	lisblk	lisblu	lisbrn	liscrm	rbblk	rbblu	rbbrw	
+xiaomi mi 2:chr	crm	def	tp	
+xiaomi mi 2s:chr	crm	def	tp	
+xiaomi mi 3:crm	def	
+xiaomi mi 4:chr	crm	def	tp	
+xiaomi mi 4 lte:chr	crm	def	tp	
+xiaomi mi 4c:chr	crm	
+xiaomi mi 4i:crm	
+xiaomi mi 4s:chr	crm	def	fcb	fcg	tp	
+xiaomi mi 5:chr	crm	def	
+xiaomi mi 5s plus:chr	crm	def	fcb	fcg	
+xiaomi mi note pro:chr	def	
+xiaomi redmi 1s:chr	crm	fcb	fcg	tp	
+xiaomi redmi 2:def	tp	
+xiaomi redmi 2 prime:chr	def	
+xiaomi redmi 3:def	
+xiaomi redmi 3x:def	tp	
+xiaomi redmi 4a:chr	def	tp	
+xiaomi redmi note 4:chr	
+xiaomi redmi note 5:chr	def	
+xiaomi redmi note 5 pro:chr	tg	
+xiaomi redmi y1:chr	def	fcb	fcg	sg	tp	

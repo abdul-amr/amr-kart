@@ -1,0 +1,78 @@
+asus zenfone max pro m1:ear	
+google pixel 2 xl:chr	def	sg	
+honor 6x:chr	def	tp	
+honor 7a:ear	lisblu	lisbrn	
+honor 7x:sg	
+honor 9n:ear	tg	
+infinix hot 4 pro:chr	fcb	fcg	tp	
+infinix note 5:ear	
+iphone xs:ear	tp	
+iphone xs max:ear	tp	
+lenovo k6 power:chr	crm	def	fcb	fcg	tp	
+lenovo k8 note:fcb	sg	
+lenovo p2:chr	def	tp	
+lg q6:chr	def	sg	tp	
+mi redmi 3s:chr	crm	def	fcb	fcg	
+mi redmi 3s prime:chr	crm	def	tp	
+mi redmi 5a:chr	def	fcb	fcg	sg	tp	
+mi redmi note 4:chr	crm	def	fcb	fcg	tp	
+mi redmi note 5:chr	def	fcb	fcg	sg	tp	
+mi redmi note 5 pro:chr	def	fcb	fcg	sg	tp	
+moto one power:chr	lisblk	liscrm	rbblk	rbblu	rbbrw	
+motorola moto c:sg	
+motorola moto c plus:chr	crm	def	fcb	fcg	sg	tp	
+motorola moto g5 plus:chr	crm	def	tp	
+motorola z2 play:chr	def	fcb	fcg	sg	tp	
+nokia 1:sg	
+nokia 2.1:ear	
+nokia 6.1 plus:ear	
+nokia 7 plus:sg	
+oppo a71:chr	def	fcb	fcg	sg	tp	
+oppo a83:sg	
+oppo f3:crm	
+oppo f5:def	fcb	fcg	sg	tp	
+oppo f7:sg	
+oppo f9  pro:rbblk	rbblu	rbbrw	tg	tp	
+oppo f9 pro:ear	sg	tg	
+oppo r11 plus:chr	def	sg	
+oppo r11s:def	sg	
+oppo r11s plus:chr	def	sg	
+oppo realme 2:ear	
+poco f1:ear	tp	
+realme 2 pro:ear	
+realme c1:ear	
+redmi 6:def	ear	
+redmi 6 pro:ear	lisblk	lisblu	lisbrn	liscrm	
+redmi note 4:chr	def	fcb	fcg	tp	
+samsung c9 pro:chr	def	fcb	fcg	tp	
+samsung galaxy a7:def	tp	
+samsung galaxy a7 (2017):chr	
+samsung galaxy a8 star:ear	
+samsung galaxy j2 2017:chr	def	fcb	fcg	tp	
+samsung galaxy j2 core:ear	
+samsung galaxy j3 pro:chr	def	fcb	fcg	sg	tp	
+samsung galaxy j5 prime:chr	crm	def	fcb	fcg	
+samsung galaxy j6:ear	
+samsung galaxy j7 prime:crm	def	fcb	fcg	rbblk	rbblu	rbbrw	tp	
+samsung galaxy on6:ear	lisblu	lisbrn	
+screen protector:rbblu	tg	
+vivo v11 pro:ear	tp	
+vivo v5s:chr	def	fcb	fcg	tp	
+vivo v7 plus:chr	def	tp	
+vivo y83:ear	lisblk	lisblu	lisbrn	liscrm	rbblk	rbblu	rbbrw	
+vivo y83 pro:ear	
+xiaomi mi 2:chr	crm	def	tp	
+xiaomi mi 2s:chr	crm	tp	
+xiaomi mi 3:crm	def	fcb	fcg	
+xiaomi mi 4:chr	crm	fcb	fcg	tp	
+xiaomi mi 4 lte:chr	crm	def	fcb	tp	
+xiaomi mi 4c:chr	crm	fcb	
+xiaomi mi 4i:chr	crm	def	fcb	fcg	
+xiaomi mi 5:chr	crm	def	fcb	fcg	tp	
+xiaomi mi 5s:fcb	fcg	
+xiaomi mi note:fcb	fcg	
+xiaomi redmi 3s:def	fcb	fcg	
+xiaomi redmi 3x:chr	def	fcb	fcg	tp	
+xiaomi redmi note 4:crm	
+xiaomi redmi y1:chr	crm	def	fcb	fcg	sg	tp	
+xiaomi redmi y1 lite:chr	def	fcb	fcg	sg	tp	

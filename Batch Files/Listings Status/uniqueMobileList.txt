@@ -1,0 +1,355 @@
+apple i phone 7:crm-1,a,i	
+apple iphone 6:chr-1,a,i	tp-1,a,i	
+apple iphone 8:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+asus zenfone max pro m1:bglass-1,a,i	bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+coolpad cool 2:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+google pixel:chr-1,a,i	def-2,a,i	
+google pixel 2:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+google pixel 2 xl:fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+google pixel xl:def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+honor 10:blkg-1,a,i	chr-1,a,i	daz-1,a,i	gkblu-1,a,i	gkred-1,a,i	
+honor 6x:gkblu-1,a,i	gkred-1,a,i	
+honor 7a:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+honor 7c:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	gkblu-1,a,i	gkred-1,a,i	tg-1,a,i	
+honor 7s:daz-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+honor 7x:blkg-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	tp-1,a,i	
+honor 8 lite:blkg-1,a,i	
+honor 8 pro:blkg-1,a,i	chr-1,a,i	def-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	tp-1,a,i	
+honor 9 lite:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tp-1,a,i	whtg-1,a,i	
+honor 9i:blkg-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+honor 9n:bglass-1,a,i	bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-5,a,d	def-1,a,i	fcb-5,a,d	fcg-5,a,d	gkblu-1,a,i	gkred-1,a,i	hyb-5,a,d	lisblk-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-5,a,d	rbblu-1,a,i	rbbrw-5,a,d	rbred-1,a,i	sg-1,a,i	tp-1,a,i	whtg-1,a,i	
+honor nova 3i:fcb-1,a,i	
+honor play:blkg-1,a,i	chr-1,a,i	fcb-1,a,i	gkblu-1,a,i	gkred-1,a,i	
+honor view 10:blkg-1,a,i	
+htc u11:chr-1,a,i	
+htc u11 plus:chr-1,a,i	
+huawei enjoy 8:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei enjoy 8 plus:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei enjoy 8e:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei holly u19:def-1,a,i	
+huawei honor 10:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei honor 7a:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei honor 9 lite:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei honor 9n:bli-1,a,i	daz-5,a,d	gkblu-1,a,i	gkred-1,a,i	rbblk-5,a,d	rbblu-1,a,i	rbbrw-5,a,d	
+huawei nova 3:chr-1,a,i	
+huawei nova 3i:chr-1,a,i	
+huawei p20:blkg-1,a,i	chr-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei p20 lite:blkg-1,a,i	chr-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	whtg-1,a,i	
+huawei p20 pro:blkg-1,a,i	chr-1,a,i	sg-1,a,i	tp-1,a,i	
+huawei y7 prime:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+infinix hot 4 pro:sg-2,a,i	
+infinix hot 6 pro:blkg-1,a,i	hyb-1,a,i	rbblk-1,a,i	rbbrw-1,a,i	tp-1,a,i	
+infinix note 4:chr-1,a,i	sg-1,a,i	tg-1,a,i	
+infinix note 5:bglass-1,a,i	chr-1,a,i	hyb-1,a,i	tp-1,a,i	
+iphone 5:hyb-1,a,i	
+iphone 6:blkg-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	whtg-1,a,i	
+iphone 6 plus:gkblu-1,a,i	gkred-1,a,i	
+iphone 6s:blkg-1,a,i	whtg-1,a,i	
+iphone 6s plus:whtg-1,a,i	
+iphone 7:bglass-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+iphone 7 plus:blkg-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+iphone 8:bglass-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+iphone 8 plus:bglass-1,a,i	blkg-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+iphone x:bglass-1,a,i	blkg-1,a,i	daz-1,a,i	hyb-1,a,i	
+iphone xr:sg-1,a,i	tg-1,a,i	
+iphone xs:btp-1,a,i	chr-1,a,i	sg-1,a,i	tg-1,a,i	
+iphone xs max:btp-1,a,i	chr-1,a,i	sg-1,a,i	tg-1,a,i	
+lava a73:fcb-1,a,i	fcg-1,a,i	
+lava z50:tg-1,a,i	
+lava z80:tg-1,a,i	
+lava z90:tg-1,a,i	
+lenovo a1000:tg-1,a,i	
+lenovo a2010:tg-1,a,i	
+lenovo a6600 plus:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+lenovo k5:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+lenovo k5 note:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+lenovo k5 play:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+lenovo k5+:def-1,a,i	
+lenovo k6 note:crm-1,a,i	
+lenovo k8 note:blkg-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcg-1,a,i	tp-1,a,i	
+lenovo k8 plus:blkg-1,a,i	chr-1,a,i	def-1,a,i	
+lenovo s5:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+lenovo vibe k5 note:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+lenovo vibe x2:tg-1,a,i	
+lenovo vibe x3:tg-1,a,i	
+lg g7:bglass-1,a,i	chr-1,a,i	tg-1,a,i	
+lg g7 plus thinq:sg-1,a,i	
+lg g7 thinq:sg-1,a,i	
+lg k7 2017:hyb-1,a,i	
+lg q6:bglass-1,a,i	blkg-1,a,i	daz-1,a,i	fcb-1,a,i	hyb-1,a,i	
+meizu 15:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+meizu 15 plus:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+mi 4i:chr-1,a,i	def-1,a,i	tp-1,a,i	
+mi a2:bglass-1,a,i	hyb-1,a,i	
+mi max:chr-1,a,i	crm-1,a,i	def-1,a,i	tp-1,a,i	
+mi max 2:gkblu-1,a,i	gkred-1,a,i	
+mi mix 2s:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+mi poco f1:lisblk-1,a,i	liscrm-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	
+mi redmi 2:chr-1,a,i	def-1,a,i	
+mi redmi 2 prime:chr-1,a,i	def-1,a,i	fcb-1,a,i	tp-1,a,i	
+mi redmi 5:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+mi redmi 5 plus:crm-1,a,i	fcg-1,a,i	tp-1,a,i	
+mi redmi note 3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+mi redmi note 5:crm-5,a,d	
+micromax canvas infinity life:chr-1,a,i	sg-1,a,i	tp-1,a,i	
+micromax evok note e453:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+micromax evok power q4260:fcb-1,a,i	fcg-1,a,i	
+mobiistar c1:tp-1,a,i	
+mobiistar e1 selfi:tp-1,a,i	
+mobiistar x1 dual:tp-1,a,i	
+moto c plus:chr-1,a,i	hyb-1,a,i	tg-1,a,i	
+moto e4 plus:blkg-1,a,i	btp-1,a,i	chr-1,a,i	crm-1,a,i	daz-1,a,i	hyb-1,a,i	tg-1,a,i	
+moto e5:chr-1,a,i	daz-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tg-1,a,i	
+moto e5 play:chr-1,a,i	daz-1,a,i	
+moto e5 plus:bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+moto g5s plus:blkg-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	
+moto g6:btp-1,a,i	chr-1,a,i	daz-1,a,i	
+moto g6 play:blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	
+moto g6 plus:bglass-1,a,i	blkg-1,a,i	chr-1,a,i	daz-1,a,i	hyb-1,a,i	rbblk-1,a,i	rbbrw-1,a,i	tg-1,a,i	
+moto one power:bglass-1,a,i	btp-1,a,i	hyb-2,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+moto x4:btp-1,a,i	chr-1,a,i	
+motorola moto c:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+motorola moto e3 power:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+motorola moto e5:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+motorola moto e5 play:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+motorola moto e5 plus:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+motorola moto g5 plus:fcg-1,a,i	
+motorola moto g5s:crm-1,a,i	
+motorola moto g5s plus:crm-1,a,i	def-1,a,i	
+motorola moto g6:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+motorola moto g6 play:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+motorola moto g6 plus:chr-1,a,i	def-1,a,i	sg-1,a,i	tp-1,a,i	
+motorola z2 play:crm-1,a,i	
+nokia 1:chr-1,a,i	crm-1,a,i	def-1,a,i	tp-1,a,i	
+nokia 2:blkg-1,a,i	btp-1,a,i	
+nokia 2.1:btp-1,a,i	chr-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	tg-1,a,i	tp-1,a,i	
+nokia 3:blkg-1,a,i	
+nokia 3.1:btp-1,a,i	chr-1,a,i	fcb-1,a,i	tg-1,a,i	tp-1,a,i	
+nokia 5:blkg-1,a,i	
+nokia 5.1:btp-1,a,i	chr-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	tg-1,a,i	
+nokia 5.1 plus:bglass-1,a,i	btp-1,a,i	chr-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+nokia 6:blkg-1,a,i	btp-1,a,i	
+nokia 6 2018:blkg-1,a,i	chr-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+nokia 6.1:blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	tg-1,a,i	
+nokia 6.1 plus:bglass-1,a,i	btp-1,a,i	chr-1,a,i	fcb-1,a,i	fcg-1,a,i	hyb-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+nokia 7 plus:blkg-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	tp-1,a,i	
+nokia 8:blkg-1,a,i	
+nokia 8 sirocco:chr-1,a,i	
+nokia x6:blkg-1,a,i	chr-1,a,i	fcb-1,a,i	fcg-1,a,i	
+one plus 5:chr-1,a,i	tp-1,a,i	
+oneplus 2:chr-1,a,i	def-1,a,i	tp-1,a,i	
+oneplus 3:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+oneplus 5:blkg-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	sg-1,a,i	
+oneplus 5t:blkg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	
+oneplus 6:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	sg-1,a,i	tp-1,a,i	
+oppo a1:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+oppo a3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+oppo a37:btp-1,a,i	
+oppo a3s:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+oppo a5:bglass-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+oppo a57:gkblu-1,a,i	gkred-1,a,i	
+oppo a71:blkg-1,a,i	btp-1,a,i	whtg-1,a,i	
+oppo a83:blkg-1,a,i	btp-1,a,i	chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	tp-1,a,i	whtg-1,a,i	
+oppo a83 pro:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+oppo f1 plus:chr-1,a,i	def-1,a,i	tp-1,a,i	
+oppo f1s:blkg-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	tg-1,a,i	whtg-1,a,i	
+oppo f3:blkg-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	tp-1,a,i	whtg-1,a,i	
+oppo f3 plus:blkg-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	tg-1,a,i	tp-1,a,i	
+oppo f5:blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	gkred-1,a,i	whtg-1,a,i	
+oppo f7:blkg-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkred-1,a,i	
+oppo f9:bglass-1,a,i	tp-1,a,i	
+oppo f9 pro:bglass-1,a,i	btp-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	tp-1,a,i	
+oppo r11s:chr-1,a,i	
+oppo r15:sg-1,a,i	tp-1,a,i	
+oppo r15 pro:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+oppo realme 1:blkg-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+oppo realme 2:bglass-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+poco f1:bglass-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	
+realme 2 pro:bglass-1,a,i	btp-1,a,i	sg-1,a,i	tg-1,a,i	
+realme c1:bglass-1,a,i	bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+redmi 4a:blkg-1,a,i	btp-1,a,i	whtg-1,a,i	
+redmi 4x:btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	
+redmi 5:blkg-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+redmi 5a:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	wglass-1,a,i	whtg-1,a,i	
+redmi 6:bglass-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	rbblk-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	
+redmi 6 pro:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+redmi 6a:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	hyb-1,a,i	rbblk-1,a,i	rbbrw-1,a,i	tg-1,a,i	
+redmi a1:btp-1,a,i	
+redmi a2:daz-1,a,i	
+redmi note 4:btp-1,a,i	crm-1,a,i	
+redmi note 4x:gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+redmi note 5:blkg-1,a,i	btp-1,a,i	daz-1,a,i	
+redmi note 5 pro:bglass-1,a,i	bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	wglass-1,a,i	whtg-1,a,i	
+redmi y1:blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+redmi y1 lite:blkg-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+redmi y2:chr-1,a,i	daz-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsing galaxy c7 pro:crm-1,a,i	def-1,a,i	tp-1,a,i	
+samsun galaxy on next:gkblu-1,a,i	
+samsung a310:def-1,a,i	
+samsung a8:def-1,a,i	
+samsung a9 pro:chr-1,a,i	def-1,a,i	tp-1,a,i	
+samsung galaxy a5:def-1,a,i	fcb-1,a,i	tp-1,a,i	
+samsung galaxy a5 (2016):chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung galaxy a5 (2017):chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung galaxy a5 2010:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy a5 2016:blkg-1,a,i	chr-1,a,i	
+samsung galaxy a5 2016 edition:chr-1,a,i	def-1,a,i	tp-1,a,i	
+samsung galaxy a5 2017:chr-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy a6:blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	golg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy a6 plus:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	fcb-1,a,i	fcg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	sg-1,a,i	tg-1,a,i	
+samsung galaxy a7:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy a7 (2017):def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung galaxy a7 2010:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy a7 2016:blkg-1,a,i	
+samsung galaxy a7 2017:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy a8:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tp-1,a,i	
+samsung galaxy a8 2018:blkg-1,a,i	
+samsung galaxy a8 plus:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	sg-1,a,i	tp-1,a,i	
+samsung galaxy a8 plus 2018:blkg-1,a,i	
+samsung galaxy a8 star:bglass-1,a,i	btp-1,a,i	chr-1,a,i	hyb-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy a9 pro:blkg-1,a,i	chr-1,a,i	crm-1,a,i	golg-1,a,i	
+samsung galaxy a9 star:blkg-1,a,i	
+samsung galaxy a9 star lite:blkg-1,a,i	
+samsung galaxy c7 pro:chr-1,a,i	daz-1,a,i	def-1,a,i	tp-1,a,i	whtg-1,a,i	
+samsung galaxy c9 pro:blkg-1,a,i	chr-1,a,i	fcb-1,a,i	gkblu-1,a,i	gkred-1,a,i	whtg-1,a,i	
+samsung galaxy j1:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung galaxy j1 (4g):chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung galaxy j1 ace:chr-1,a,i	
+samsung galaxy j2:blkg-1,a,i	chr-1,a,i	
+samsung galaxy j2 2010:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy j2 2018:blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	golg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy j2 core:bglass-1,a,i	def-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tg-1,a,i	
+samsung galaxy j2 prime:blkg-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	golg-1,a,i	tp-1,a,i	
+samsung galaxy j2 pro (2018):chr-1,a,i	def-1,a,i	sg-1,a,i	
+samsung galaxy j2 pro 2018:chr-1,a,i	
+samsung galaxy j3 2016:chr-1,a,i	
+samsung galaxy j3 2018:bli-1,a,i	blkg-1,a,i	daz-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+samsung galaxy j3 pro:blkg-1,a,i	golg-1,a,i	
+samsung galaxy j4:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	sg-1,a,i	tp-1,a,i	
+samsung galaxy j4 plus:bglass-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	hyb-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy j5:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung galaxy j5 (2016):chr-1,a,i	crm-1,a,i	def-1,a,i	tp-1,a,i	
+samsung galaxy j5 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	tp-1,a,i	
+samsung galaxy j5 prime:blkg-1,a,i	golg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tp-1,a,i	
+samsung galaxy j6:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy j6 plus:bglass-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy j7:blkg-1,a,i	chr-1,a,i	fcb-1,a,i	golg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tp-1,a,i	
+samsung galaxy j7 - 6:def-1,a,i	
+samsung galaxy j7 2010:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy j7 duo:bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	golg-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	robo-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy j7 max:blkg-1,a,i	chr-1,a,i	gkblu-1,a,i	golg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy j7 plus:def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+samsung galaxy j7 prime:blkg-1,a,i	chr-1,a,i	gkblu-1,a,i	gkred-1,a,i	golg-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy j7 prime 2:bglass-1,a,i	bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy j7 pro:chr-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy j8:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy note 5:blkg-1,a,i	
+samsung galaxy note 8:fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	
+samsung galaxy note 9:chr-1,a,i	hyb-1,a,i	tp-1,a,i	
+samsung galaxy on 6:bli-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	tp-1,a,i	
+samsung galaxy on5:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy on6:bglass-1,a,i	bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+samsung galaxy on7:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy on8:bglass-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisblu-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+samsung galaxy s5:chr-1,a,i	def-1,a,i	
+samsung galaxy s6:blkg-1,a,i	chr-1,a,i	gkred-1,a,i	
+samsung galaxy s6 edge:chr-1,a,i	gkred-1,a,i	
+samsung galaxy s7:blkg-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkred-1,a,i	tp-1,a,i	
+samsung galaxy s7 edge:chr-1,a,i	def-1,a,i	gkred-1,a,i	tp-1,a,i	
+samsung galaxy s8:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	
+samsung galaxy s8 plus:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxy s9:btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tp-1,a,i	
+samsung galaxy s9 plus:btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	tp-1,a,i	
+samsung galaxy z4:lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+samsung galaxya9 pro:crm-1,a,i	
+samsung j1:def-1,a,i	
+samsung j2:def-1,a,i	
+samsung j2 2016:def-1,a,i	
+samsung j5:def-1,a,i	
+samsung j5 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	tp-1,a,i	
+samsung j5 2016:def-1,a,i	
+samsung j5 prime:def-1,a,i	
+samsung j7:def-1,a,i	
+samsung j7 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samsung note3:def-1,a,i	
+samsung note7:def-1,a,i	
+samsung on5:def-1,a,i	
+samsung on7:def-1,a,i	
+samsung s3:def-1,a,i	
+samsung s4:def-1,a,i	
+samsung s5:def-1,a,i	
+samsung s6 edge:def-1,a,i	
+samsung z2:chr-1,a,i	def-1,a,i	fcb-1,a,i	tp-1,a,i	
+samsung z4:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+samung galaxy j7 pro:blkg-1,a,i	golg-1,a,i	
+sansung galaxy j6:tg-1,a,i	
+sony experia xa1:chr-1,a,i	
+sony experia xz2:fcb-1,a,i	fcg-1,a,i	
+sony experia xz2 compact:fcb-1,a,i	fcg-1,a,i	
+sony xperia l2:chr-1,a,i	
+sony xperia xz2:chr-1,a,i	
+sony xperia z3 plus:def-1,a,i	
+sony xperia z4:def-1,a,i	
+viv0 y55:btp-1,a,i	
+vivo nex:btp-1,a,i	gkred-1,a,i	tg-1,a,i	
+vivo nex a:sg-1,a,i	
+vivo v11:bglass-1,a,i	
+vivo v11 pro:bglass-1,a,i	btp-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	tg-1,a,i	
+vivo v5:blkg-1,a,i	gkblu-1,a,i	gkred-1,a,i	
+vivo v5 lite:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+vivo v5 plus:btp-1,a,i	
+vivo v5s:blkg-1,a,i	whtg-1,a,i	
+vivo v7:blkg-1,a,i	btp-1,a,i	gkred-1,a,i	whtg-1,a,i	
+vivo v7 plus:gkred-1,a,i	
+vivo v9:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	tp-1,a,i	
+vivo v9 youth:sg-1,a,i	
+vivo x21:blkg-1,a,i	btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	
+vivo y53:daz-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+vivo y53i:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+vivo y55:daz-1,a,i	
+vivo y55l:crm-1,a,i	
+vivo y66:def-1,a,i	
+vivo y69:blkg-1,a,i	crm-1,a,i	whtg-1,a,i	
+vivo y71:blkg-1,a,i	chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+vivo y81:bglass-1,a,i	btp-1,a,i	chr-1,a,i	def-1,a,i	gkblu-1,a,i	gkred-1,a,i	tp-1,a,i	
+vivo y83:bglass-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	
+vivo y83 pro:btp-1,a,i	chr-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	tg-1,a,i	tp-1,a,i	
+vivo z10:bglass-1,a,i	wglass-1,a,i	
+xiaomi  mi mix 2:fcg-1,a,i	
+xiaomi mi 2s:def-1,a,i	
+xiaomi mi 4:def-1,a,i	
+xiaomi mi 4 lte:fcg-1,a,i	
+xiaomi mi 4c:fcg-1,a,i	tp-1,a,i	
+xiaomi mi 6x:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+xiaomi mi 8:chr-1,a,i	tp-1,a,i	
+xiaomi mi a2:bglass-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	sg-1,a,i	tg-1,a,i	tp-1,a,i	whtg-1,a,i	
+xiaomi mi max:chr-1,a,i	def-1,a,i	tp-1,a,i	
+xiaomi mi max 2:whtg-1,a,i	
+xiaomi mi note 2:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+xiaomi mi note pro:chr-1,a,i	def-1,a,i	
+xiaomi poco f1:bglass-1,a,i	daz-1,a,i	hyb-1,a,i	lisbrn-1,a,i	rbblk-1,a,i	
+xiaomi pocophone f1:tg-1,a,i	
+xiaomi redmi  mi 3x:chr-1,a,i	
+xiaomi redmi  mi note 2:chr-1,a,i	
+xiaomi redmi 2:chr-1,a,i	def-1,a,i	tp-1,a,i	
+xiaomi redmi 2 prime:chr-1,a,i	def-1,a,i	
+xiaomi redmi 3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+xiaomi redmi 3s prime:def-1,a,i	
+xiaomi redmi 4a:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+xiaomi redmi 5:btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+xiaomi redmi 5 plus:crm-1,a,i	fcb-1,a,i	fcg-1,a,i	
+xiaomi redmi 5a:btp-1,a,i	chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+xiaomi redmi 6:chr-1,a,i	tp-1,a,i	
+xiaomi redmi 6a:chr-1,a,i	sg-1,a,i	tp-1,a,i	
+xiaomi redmi a2:gkblu-1,a,i	gkred-1,a,i	
+xiaomi redmi max 2:chr-1,a,i	
+xiaomi redmi mi note pro:chr-1,a,i	
+xiaomi redmi note 3:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+xiaomi redmi note 3 mediatek:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+xiaomi redmi note 4:chr-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	tp-1,a,i	
+xiaomi redmi note 5:chr-1,a,i	crm-5,a,d	def-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	sg-1,a,i	tp-1,a,i	
+xiaomi redmi note 5 pro:bli-1,a,i	blkg-1,a,i	btp-1,a,i	chr-1,a,i	daz-1,a,i	def-1,a,i	dot-1,a,i	fcb-1,a,i	fcg-1,a,i	gkblu-1,a,i	gkred-1,a,i	hyb-1,a,i	lisblk-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	rbblk-1,a,i	rbblu-1,a,i	rbbrw-1,a,i	rbred-1,a,i	robo-1,a,i	sg-1,a,i	tp-1,a,i	whtg-1,a,i	
+xiaomi redmi y2:btp-1,a,i	gkblu-1,a,i	gkred-1,a,i	lisblk-1,a,i	lisblu-1,a,i	lisbrn-1,a,i	liscrm-1,a,i	
+xiaomi xiaomi redmi note 2:fcb-1,a,i	
+zenfone 5z:bli-1,a,i	blkg-1,a,i	chr-1,a,i	daz-1,a,i	hyb-1,a,i	sg-1,a,i	tp-1,a,i	
+zenfone max pro m1:hyb-1,a,i	

@@ -1,0 +1,268 @@
+Apple Iphone 8:fcg-2,i,i	
+Apple i phone 7:crm-1,a,i	
+Apple iPhone 6:chr-1,i,i	fcg-1,i,i	tp-1,a,i	
+Apple iPhone 6 Plus:chr-2,a,e	fcg-1,i,i	
+Apple iPhone 6S:chr-2,a,e	crm-2,a,e	tp-2,a,e	
+Apple iPhone 6S Plus:tp-2,a,e	
+Apple iPhone 7:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-1,i,i	fcg-1,i,i	tp-2,a,e	
+Apple iPhone 7 Plus:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,i,i	fcg-2,i,i	tp-2,a,e	
+Apple iPhone 8:chr-1,i,i	crm-1,i,i	def-1,i,i	fcb-1,i,i	fcg-1,a,i	tp-1,i,i	
+Apple iPhone 8 Plus:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,i,i	fcg-2,i,i	tp-2,a,e	
+Apple iPhone X:chr-2,a,e	def-2,a,e	fcb-1,i,i	fcg-1,i,i	tp-2,a,e	
+Gionee A1 Lite:chr-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Gionee P5 Mini:def-2,a,e	
+Gionee P5L:def-2,a,e	
+Gionee S6S:def-2,a,e	
+Google Pixel:chr-1,a,i	def-2,i,i	fcb-2,i,i	fcg-2,i,i	tp-1,i,i	
+Google Pixel 2:chr-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,a,i	tp-1,a,i	
+Google Pixel 2 XL:chr-2,a,e	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+Google Pixel XL:chr-2,a,e	def-1,i,i	fcb-1,i,i	fcg-1,i,i	tp-2,i,i	
+HTC 728:def-1,i,i	
+Honor 6x:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Huawei Holly U19:def-1,a,i	
+Huawei Honor 6X:fcg-2,a,e	
+Huawei Honor 6x:tp-2,a,e	
+Huawei Honor 8 Lite:chr-2,a,e	tp-2,a,e	
+Huawei iPhone 7:chr-2,i,i	
+Infinix Hot 4 Pro:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,i,i	tp-2,a,e	
+Infinix Note 4:chr-2,a,e	def-2,i,i	fcb-2,i,i	fcg-2,i,i	sg-1,i,i	tp-2,i,i	
+Iphone7:fcg-2,i,i	
+LAVA A73:fcb-1,a,i	fcg-1,a,i	
+LG Q6:chr-2,a,e	def-2,a,e	fcb-1,i,i	fcg-2,i,i	sg-2,a,e	tp-2,a,e	
+Lenovo  K5 Note:tp-2,a,e	
+Lenovo A6600 Plus:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Lenovo K5 Note:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Lenovo K5+:def-1,a,i	
+Lenovo K6 Note:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Lenovo K6 Power:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Lenovo K8 Note:chr-2,a,e	crm-1,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-1,a,i	
+Lenovo K8 Plus:chr-2,a,e	def-2,i,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+Lenovo P2:chr-2,a,e	crm-2,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Lenovo Vibe K5 Note:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Lenovo Vibe P1:def-2,a,e	
+MICROMAX EVOK NOTE E453:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,i,i	tp-1,a,i	
+MICROMAX EVOK POWER Q4260:fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+MOTOROLA MOTO C:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+MOTOROLA MOTO C PLUS:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+MOTOROLA MOTO E4:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+MOTOROLA MOTO E4 PLUS:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+MOTOROLA MOTO G5S:chr-2,a,e	crm-1,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+MOTOROLA MOTO G5S PLUS:chr-2,a,e	crm-1,i,i	def-1,a,i	fcb-2,a,e	fcg-2,a,e	sg-2,i,e	tp-2,a,e	
+MOTOROLA Z2 PLAY:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Mi 4i:chr-1,a,i	def-1,a,i	tp-1,a,i	
+Mi A1:fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Mi Max:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Mi Max 2:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+Mi Mix 2:chr-2,a,e	fcb-2,a,e	fcg-2,a,e	
+Mi Redmi 2:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Mi Redmi 2 Prime:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Mi Redmi 3S:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Mi Redmi 3S Prime:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Mi Redmi 5:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+Mi Redmi 5 Plus:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+Mi Redmi 5a:chr-1,a,i	def-1,i,i	fcb-1,a,i	fcg-1,a,i	tp-1,i,i	
+Mi Redmi Note:fcb-1,i,i	fcg-1,i,i	
+Mi Redmi Note 3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Mi Redmi Note 4:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,i,e	fcg-2,a,e	tp-2,a,e	
+Mi Redmi Note 5:chr-2,a,e	crm-5,i,d	def-1,a,i	fcb-2,a,e	fcg-5,a,d	sg-2,a,e	tp-2,a,e	
+Mi Redmi Note 5 Pro:chr-2,a,e	def-5,a,d	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Motorola Moto E3 Power:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Motorola Moto G5 Plus:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-1,a,i	tp-2,a,e	
+Motorola Moto M:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Nokia 3:chr-2,a,e	crm-1,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Nokia 5:chr-2,a,e	crm-1,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Nokia 6:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Nokia 8:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+OPPO A37:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+OPPO F1 Plus:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+OPPO F1s:chr-2,a,e	crm-2,a,e	def-2,a,e	fcg-2,a,e	
+OPPO F3:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-2,a,e	tp-1,a,i	
+OPPO R11:chr-1,i,i	def-1,i,i	fcb-2,i,i	fcg-1,i,i	tp-1,a,i	
+OPPO R11 Plus:fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+One Plus Three:def-2,a,e	
+OnePlus 2:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+OnePlus 3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+OnePlus 3T:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+OnePlus 5:chr-2,a,e	fcb-2,i,i	fcg-2,a,e	sg-1,a,i	tp-2,a,e	
+Oppo A57:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Oppo A71:chr-2,a,e	crm-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Oppo F1 Plus:def-2,a,e	
+Oppo F1s:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+Oppo F3 Plus:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+Oppo F5:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Oppo R11s:chr-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Oppo R11s Plus:fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Redmi 3S Prime:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Redmi Note 4:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Redmi Note 5 Pro:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG GALAXY J2 2017:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG GALAXY J5:def-1,a,i	
+SAMSUNG GALAXY J5 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+SAMSUNG GALAXY J7:fcb-1,a,i	tp-1,a,i	
+SAMSUNG GALAXY J7 (2017):chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG GALAXY J7 MAX:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG GALAXY J7 Pro:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG GALAXY NOTE 8:chr-2,a,e	def-2,a,e	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-2,a,e	
+SAMSUNG GALAXY ON MAX:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+SAMSUNG GALAXY S5:chr-1,a,i	crm-2,i,i	def-2,i,i	fcb-2,i,i	fcg-2,i,i	tp-2,i,i	
+SAMSUNG Galaxy A5 2016 Edition:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-2,a,e	tp-1,a,i	
+SAMSUNG Galaxy J1 Ace:chr-2,a,e	fcb-2,a,e	fcg-2,a,e	
+SAMSUNG Galaxy J2:chr-2,a,e	def-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG Galaxy J3 Pro:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG Galaxy J5:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG Galaxy J5 Prime:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-1,a,i	
+SAMSUNG Galaxy J7:chr-2,a,e	tp-2,a,e	
+SAMSUNG Galaxy J7 - 6:def-1,a,i	
+SAMSUNG Galaxy J7 Prime:chr-2,a,e	tp-2,a,e	
+SAMSUNG Galaxy On Nxt:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG Galaxy S7:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG Galaxy S7 Edge:chr-2,a,e	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+SAMSUNG Galaxy S8:chr-2,a,e	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-2,a,e	tp-2,a,e	
+SAMSUNG Galaxy S8 Plus:chr-2,a,e	def-2,a,e	fcb-1,a,i	fcg-1,a,i	sg-2,a,e	tp-2,a,e	
+SAMSUNG J5 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+SAMSUNG J7 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+SAMSUNG J7 Pro:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+SAMSUNG Z4:chr-1,a,i	crm-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsing Galaxy C7 Pro:chr-2,a,e	crm-1,i,i	def-1,i,i	fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+Samsung  Galaxy C7 Pro:crm-1,i,i	fcg-1,i,i	
+Samsung  Galaxy S7 Edge:chr-2,a,e	crm-2,a,e	def-2,a,e	tp-2,a,e	
+Samsung A310:def-1,a,i	
+Samsung A8:def-1,a,i	
+Samsung A9 Pro:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+Samsung C9 Pro:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung G530:def-1,a,i	
+Samsung Galalxy J7:fcg-2,a,e	
+Samsung Galaxy A5:crm-1,a,i	def-1,a,i	fcb-1,a,i	tp-1,a,i	
+Samsung Galaxy A5 (2016):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy A5 (2017):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy A7 (2017):chr-2,a,e	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy A9 Pro:crm-1,a,i	fcg-1,i,i	
+Samsung Galaxy C7 Pro:chr-2,a,e	crm-1,i,i	def-1,i,i	fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+Samsung Galaxy J1:chr-1,i,i	crm-1,a,i	def-1,i,i	fcb-1,a,i	fcg-1,i,i	tp-1,a,i	
+Samsung Galaxy J1 (4G):chr-1,a,i	crm-2,i,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy J1 ace:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J2:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J2 Ace:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J2 Prime:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy J3:crm-1,a,i	
+Samsung Galaxy J3 (2016):chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J5:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung Galaxy J5 (2016):chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+Samsung Galaxy J5 Prime:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J7:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J7 (2016):chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy J7 Prime:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy On Nxt:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Samsung Galaxy S7:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Samsung GalaxyA9 Pro:crm-1,a,i	
+Samsung J1:def-1,a,i	
+Samsung J1 Ace:def-2,a,e	
+Samsung J2:def-1,a,i	
+Samsung J2 2016:def-1,a,i	
+Samsung J3:def-2,a,e	
+Samsung J5:def-1,a,i	
+Samsung J5 2016:def-1,a,i	
+Samsung J5 Prime:def-1,a,i	
+Samsung J7:def-1,a,i	
+Samsung J7 Prime:def-2,a,e	
+Samsung Note2:def-2,i,i	
+Samsung Note3:def-1,a,i	
+Samsung Note4:def-2,a,e	
+Samsung Note5:def-2,a,e	
+Samsung Note7:def-1,a,i	
+Samsung On5:def-1,a,i	
+Samsung On7:def-1,a,i	
+Samsung S3:def-1,a,i	
+Samsung S3 mini:def-2,a,e	
+Samsung S4:def-1,a,i	
+Samsung S4 mini:def-2,a,e	
+Samsung S5:def-1,i,i	
+Samsung S6:def-1,i,i	
+Samsung S6 Edge:def-1,a,i	
+Samsung S7:def-2,a,e	
+Samsung Z2:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+Samsung galaxy  C9 Pro:tp-2,a,e	
+Samsung galaxy A9 Pro:chr-1,a,i	fcb-1,i,i	
+Samsung galaxy C9 Pro:fcb-2,i,i	tp-2,a,e	
+Smsung Galaxy S7 Edge:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,i,e	fcg-2,i,e	tp-2,a,e	
+Sony XPERIA M5:def-1,a,i	
+Sony Xperia E4:def-1,a,i	
+Sony Xperia M5:def-1,a,i	
+Sony Xperia T2:def-1,a,i	
+Sony Xperia XA:def-1,i,i	
+Sony Xperia Z2:def-1,a,i	
+Sony Xperia Z3:def-1,i,i	
+Sony Xperia Z3 Plus:def-1,a,i	
+Sony Xperia Z4:def-1,i,i	
+VIVO V3:def-1,a,i	
+VIVO V3 Max:def-1,i,i	
+VIVO V5:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO V5 Lite:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	sg-1,a,i	tp-1,a,i	
+VIVO V5 Plus:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO V5S:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO V7 PLUS:chr-2,a,e	crm-2,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO Y53:chr-2,a,e	crm-1,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO Y55L:chr-2,a,e	crm-1,a,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO Y55s:def-2,a,e	
+VIVO Y66:chr-2,a,e	crm-2,a,e	def-1,a,i	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+VIVO Y69:chr-2,a,e	crm-1,i,i	def-2,a,e	fcb-2,a,e	fcg-2,a,e	sg-2,a,e	tp-2,a,e	
+Xiaomi  Mi Mix 2:fcg-1,a,i	
+Xiaomi  Mix 2:fcb-2,a,e	
+Xiaomi Mi 2s:def-1,a,i	
+Xiaomi Mi 3S:def-2,a,e	
+Xiaomi Mi 4:def-1,a,i	
+Xiaomi Mi 4 LTE:fcg-1,a,i	
+Xiaomi Mi 4c:fcg-1,a,i	tp-1,a,i	
+Xiaomi Mi 5s:tp-1,i,i	
+Xiaomi Mi 5s Plus:tp-1,i,i	
+Xiaomi Mi A1:fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Mi A1Mi A1:fcg-2,a,e	
+Xiaomi Mi A1Mi Mix 2:fcb-1,i,i	
+Xiaomi Mi Max:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Mi Max 2:chr-2,a,e	crm-2,a,e	def-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Mi Mix 2:chr-2,a,e	fcb-2,a,e	fcg-2,a,e	
+Xiaomi Mi Note:chr-1,i,i	crm-1,i,i	def-1,i,i	fcb-2,a,e	fcg-2,a,e	tp-1,i,i	
+Xiaomi Mi Note 2:chr-1,a,i	def-1,i,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Mi Note Pro:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+Xiaomi MiMi A1:fcb-2,a,e	
+Xiaomi Redmi  Mi Note 2:chr-1,a,i	
+Xiaomi Redmi  mi 3x:chr-1,a,i	
+Xiaomi Redmi 2:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi 2 Prime:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi 2 Pro:chr-1,i,i	crm-1,i,i	def-1,i,i	tp-1,i,i	
+Xiaomi Redmi 3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi 3S:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	
+Xiaomi Redmi 3S Prime:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Redmi 3x:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Redmi 4a:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi 5:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,i,i	
+Xiaomi Redmi 5 Plus:chr-1,a,i	crm-1,i,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+Xiaomi Redmi 5a:chr-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Redmi Max 2:chr-1,a,i	
+Xiaomi Redmi Mi 3S:fcg-2,a,e	
+Xiaomi Redmi Mi A1:fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Redmi Mi Max:fcb-2,a,e	
+Xiaomi Redmi Mi Max 2:chr-2,a,e	def-2,a,e	tp-2,a,e	
+Xiaomi Redmi Mi Mix 2:fcb-2,a,e	fcg-2,a,e	
+Xiaomi Redmi Mi Note 2:fcb-1,i,i	
+Xiaomi Redmi Mi Note Pro:chr-1,a,i	fcb-1,i,i	
+Xiaomi Redmi Note:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-2,a,e	fcg-2,a,e	tp-1,a,i	
+Xiaomi Redmi Note 2:fcg-2,i,i	
+Xiaomi Redmi Note 3:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi Note 3 MediaTek:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi Note 4:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Redmi Note 5:chr-2,a,e	crm-5,i,d	def-2,a,e	fcb-2,a,e	fcg-5,a,d	sg-2,a,i	tp-2,a,e	
+Xiaomi Redmi Note 5 Pro:chr-2,a,e	def-5,a,d	fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+Xiaomi Redmi Y1:chr-1,a,i	crm-1,a,i	def-1,a,i	fcb-1,a,i	fcg-1,a,i	tp-1,a,i	
+Xiaomi Redmi Y1 Lite:chr-1,a,i	def-1,a,i	fcb-1,i,i	fcg-1,i,i	tp-1,a,i	
+Xiaomi Redmi mi A1:tp-2,a,e	
+Xiaomi Xiaomi Redmi Note 2:fcb-1,a,i	
+Yu Yunique 2:chr-2,i,i	crm-2,i,i	def-2,i,i	fcb-2,i,i	fcg-2,i,i	sg-2,i,i	tp-2,a,e	
+apple iPhone 7:fcb-2,i,i	tp-2,a,e	
+apple iPhone 7 Plus:fcg-1,i,i	
+iPhone 7:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,i,i	fcg-2,i,i	tp-2,a,e	
+iPhone 7 Plus:chr-2,a,e	crm-2,a,e	def-2,a,e	fcb-2,i,i	fcg-2,i,i	tp-2,a,e	
+xiaomi Mi A1:fcb-2,a,e	fcg-2,a,e	tp-2,a,e	
+xiaomi Mi Mix 2:fcb-2,a,e	
+xiaomi Redmi 3S Prime:chr-2,a,e	def-1,a,i	
+xiaomi Redmi Note 4:fcb-1,a,i	

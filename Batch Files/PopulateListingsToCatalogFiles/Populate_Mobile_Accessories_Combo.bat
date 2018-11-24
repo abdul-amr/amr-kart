@@ -1,0 +1,3 @@
+java -jar code/PopulateListingsToCatalogFile.jar mobile_accessories_combo
+
+pause
