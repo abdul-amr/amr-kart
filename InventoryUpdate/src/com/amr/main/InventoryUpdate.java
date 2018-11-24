@@ -299,6 +299,7 @@ public class InventoryUpdate {
 		return skuVsPhoneMap;
 	}
 
+	@SuppressWarnings("unused")
 	private Map<String, String> loadSkuVsPhoneMap() throws IOException {
 		Map<String, String> skuVsPhoneMap = new HashMap<>();
 		BufferedReader br1 = null;
@@ -317,6 +318,9 @@ public class InventoryUpdate {
             	skuVsPhoneMap.put(sCurrentLine.split("::")[0], sCurrentLine.split("::")[1]);
             }
         }
+        
+        br1.close();
+        br2.close();
 		return skuVsPhoneMap;
 	}
 	
@@ -417,7 +421,8 @@ public class InventoryUpdate {
             	
             }
         }
-        
+        br1.close();
+        br2.close();
         if(nonLivemap.size() > 0 || livemap.size() > 0 ){
         	writeToFile(livemap,nonLivemap);
         }else{

@@ -175,6 +175,7 @@ public class PopulateListingsToCatalogFiles {
 				return sCurrentLine;
 			}
         }
+		br1.close();
 		System.out.println("Error : Path to Catalog Folder is Empty");
 		return "";
 	}

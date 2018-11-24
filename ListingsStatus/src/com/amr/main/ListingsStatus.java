@@ -624,6 +624,9 @@ public class ListingsStatus {
             list2.add(sCurrentLine);
         }
         
+        br1.close();
+        br2.close();
+        
         //load list1
         Map<String, HashMap<String, String>> map2 = new HashMap<>();
         for(int i=0;i<list1.size();i++){
@@ -939,6 +942,8 @@ public class ListingsStatus {
             map2.put(mobileEntry[0].trim(), map1);
         }
         
+        br1.close();
+        
         return  map2;
 	}
 
@@ -957,6 +962,9 @@ public class ListingsStatus {
         while ((sCurrentLine = br2.readLine()) != null) {
             list2.add(sCurrentLine);
         }
+        
+        br1.close();
+        br2.close();
         
         //load list1
         Map<String, HashMap<String, String>> map2 = new HashMap<>();
