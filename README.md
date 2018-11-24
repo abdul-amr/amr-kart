@@ -1,2 +1,0 @@
-# amr-kart
-AMR Automation

@@ -1,1 +1,0 @@
-varieties=tp,btp,crm,chr,hyb,gkred,gkblu,bli,dot,def,daz,robo,fcb,fcg,rbblk,rbbrw,rbblu,rbred,liscrm,lisbrn,lisblk,lisblu,sg,blkg,whtg,nang,tg
