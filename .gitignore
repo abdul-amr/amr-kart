@@ -1,50 +1,10 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# compiled output
-/dist
-builds
-/tmp
-/out-tsc
-
-bin
-
-configs/_generated.json
-package-lock.json
-
-# dependencies
-/node_modules
-
-# IDEs and editors
-/.idea
-.classpath
-.c9/
-*.launch
+.metadata/
+.recommenders/
 .settings/
-*.sublime-workspace
-
-# IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-
-# misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-testem.log
-/typings
-
-# e2e
-/e2e/*.js
-/e2e/*.map
-
-# System Files
-.DS_Store
-Thumbs.db
-
-# Documentation
-/documentation
+bin/
+**skuvsPhone**.txt
+**UniqueMobileNames**.txt
+**cases_covers**.txt
+**mobileaccessories_combo**.txt
+**screen_guards**.txt
+**seeds**.txt

@@ -1,0 +1,41 @@
+ASUS ZENFONE MAX PRO M1:hyb-1,a,i	
+Cover:chr-1,i,i	def-1,i,i	ear-1,i,i	fcb-1,i,i	fcg-1,i,i	liscrm-1,i,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	sg-1,i,i	tg-1,i,i	tp-1,i,i	
+HONOR 7A:bglass-1,i,i	
+HONOR 7C:bglass-1,i,i	
+HONOR 7S:bglass-1,i,i	chr-1,i,i	hyb-1,i,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	tg-1,i,i	tp-1,i,i	
+HONOR 9 LITE:bglass-1,i,i	
+HONOR 9N:bglass-1,a,i	
+HUAWEI NOVA 3:chr-1,i,i	
+IPHONE 7:bglass-1,i,i	
+IPHONE 8:bglass-1,i,i	
+IPHONE 8 PLUS:bglass-1,i,i	
+IPHONE X:bglass-1,i,i	
+LG G7 PLUS THINQ:sg-1,i,i	
+MI A2:bglass-1,i,i	
+MI POCO F1:lisblk-1,i,i	liscrm-1,i,i	rbblk-1,i,i	rbbrw-1,i,i	
+MOTO G6 PLUS:bglass-1,i,i	chr-1,a,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	tg-1,i,i	
+NOKIA 6.1 PLUS:chr-1,i,i	
+ONEPLUS 6:bglass-1,i,i	
+OPPO A3S:bglass-1,i,i	
+OPPO A5:bglass-1,a,i	
+OPPO F9 PRO:bglass-1,a,i	
+POCO F1:bglass-1,a,i	
+REDMI 6:bglass-1,i,i	btp-1,i,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	tg-1,i,i	
+REDMI 6 PRO:bglass-1,i,i	chr-1,i,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	tg-1,i,i	
+REDMI 6A:bglass-1,i,i	btp-1,i,i	chr-1,i,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	tg-1,i,i	
+REDMI NOTE 5 PRO:bglass-1,a,i	
+REDMI Y2:bglass-1,i,i	chr-1,a,i	
+SAMSUNG GALAXY A6:bglass-1,i,i	
+SAMSUNG GALAXY A6 PLUS:bglass-1,i,i	
+SAMSUNG GALAXY A8 STAR:bglass-1,a,i	
+SAMSUNG GALAXY J2 CORE:lisblk-1,i,i	lisblu-1,i,i	lisbrn-1,i,i	liscrm-1,i,i	tg-1,i,i	
+SAMSUNG GALAXY J4:bglass-1,i,i	
+SAMSUNG GALAXY J6:bglass-1,i,i	
+SAMSUNG GALAXY J8:bglass-1,i,i	
+Screen Protector:ear-1,i,i	fcb-1,i,i	fcg-1,i,i	lisblk-1,i,i	lisbrn-1,i,i	liscrm-1,i,i	rbblk-1,i,i	rbblu-1,i,i	rbbrw-1,i,i	rbred-1,i,i	sg-1,i,i	tg-1,i,i	
+VIVO V11:bglass-1,i,i	tg-1,i,i	
+VIVO V11 PRO:bglass-1,i,i	tg-1,i,i	
+VIVO V9:bglass-1,i,i	
+VIVO Y81:bglass-1,a,i	
+VIVO Y83:bglass-1,i,i	
+VIVO Y83 PRO:hyb-1,i,i	
